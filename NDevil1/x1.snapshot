@@ -239,8 +239,8 @@
           "name" : "ExecuteProcess",
           "penaltyDuration" : "30 sec",
           "position" : {
-            "x" : 1308.0,
-            "y" : 183.0
+            "x" : 1408.0,
+            "y" : 96.0
           },
           "properties" : {
             "Redirect Error Stream" : "false",
